@@ -58,3 +58,9 @@ To run this project locally, follow these steps:
 4. **Launch the local development server:**
    ```bash
    npm start
+
+---
+
+## Author
+
+This project is created by Watchapon Wongapinya for JavaScript project.
